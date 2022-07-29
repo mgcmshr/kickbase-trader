@@ -8,3 +8,6 @@ Zur Nutzung muss E-Mail und Password in der secrets.py abgeändert werden.
 pip install Kickbase-API
 pip install Kickbase-Analysis
 
+# ausführen
+
+python main.py
