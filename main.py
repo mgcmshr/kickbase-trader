@@ -22,3 +22,4 @@ kickbaseUpdater.getMarket()
 kickbaseUpdater.getOwnMarketPlayersRising()
 kickbaseUpdater.getOwnMarketPlayersFalling()
 kickbaseUpdater.get_players_without_offer()
+
